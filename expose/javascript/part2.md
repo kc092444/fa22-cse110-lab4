@@ -1,8 +1,6 @@
-1. print 2
-2. error: declare it discounted twice within the function by using var keyword
-3.print final price after the ith iteration
-4.return an array with 50, 100, 150
-5.print 2
-6.print 150
-7.print 150
-8.
+1. `values added: 20`
+2. `final result: 20`
+3. `values added: 20`
+4. Error: result is not inside the scope
+5. Error: reassign a const varialbe (result)
+6. Error: result is not inside the scope
