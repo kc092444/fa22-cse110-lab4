@@ -1,3 +1,5 @@
+#Part 2
+
 1.print 3, 'i' is added up from 0 to 3 
 2.print 150, 'discounted price' stays the value in last iteration
 3.print 150, 'finalPrice'  stays the value in last iteration
