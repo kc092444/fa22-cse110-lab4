@@ -17,4 +17,21 @@
     3. `student.greeting()`
     4. `student['Favorite Teacher'].name`
     5. `student['courseLoad'][0]`
-13. 
+13.
+    1. `'32'`  //int 2 added to string 3
+    2. `'1'`  // string 3 turns into integer and returns to string after calculation
+    3. `3`  //null is 0
+    4. `'3null'` //null becomes string
+    5. `4`  //true is 1
+    6. `0`  //both are interpreted as 0
+    7. `'3undifined'` //undifined turns to string
+    8. `Nan`    //undifined cant be convert to number
+14. 
+    1. `true` // 2 is converted to int
+    2. `fasle`  // '2' is compared to '1' 
+    3. `true`   //'2'is converted to int
+    4. `false`  // ====check type equality
+    5. `false` // true is converted to 1
+    6. `true`   //boolean(2) returns ture
+
+   
