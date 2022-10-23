@@ -34,4 +34,6 @@
     5. `false` // true is converted to 1
     6. `true`   //boolean(2) returns ture
 
+15. `==` permits type conversion, `===` checks type eqality
+
    
