@@ -35,9 +35,9 @@
     6. `true`   //boolean(2) returns ture
 
 15. `==` permits type conversion, `===` checks type eqality
-
+16. attached
 17. `[2, 4, 6]` is returned //`doSomething`  doubles the value passed into and goes thru every element in [1,2,3] array
-
+18. attached
 19. `1 4 3 2`
 
    
